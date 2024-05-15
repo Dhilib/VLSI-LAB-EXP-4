@@ -122,20 +122,23 @@ endmodule
 
 ## OUTPUT WAVEFORM
  SR FLIPFLOP:
-![324509227-d67c918e-1436-46fd-a770-5a0ba15f1860](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/13e1f33c-1adf-4dc3-88d0-5279b36fd951)
+ ![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/4efc1af3-acd8-4625-aba2-ac482e8b7790)
+
 
 JK FLIPFLOP:
-![324509302-734000b9-6760-40f3-ab87-74ad84221bbc](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/76b74f95-caec-4992-8221-175b0c9769ae)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/50ab4716-0917-42c1-870e-e358ddf92301)
+
 
 
 T FLIPFLOP:
 
-![324509374-3bb29062-f124-4ef4-b29b-d4e1441fd7f0](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/36eeb124-118b-449e-b6dc-a5728784779f)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/aca19e07-83eb-4809-a9b8-c9de656ab41a)
+
 
 
 D FLIPFLOP:
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/5d5fdeff-a929-4a2f-9b19-357d329efe9c)
 
-![324509468-71618202-0410-41e9-91b1-bc2ac52d9b3d](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/29d6adcf-8752-4d13-97bd-b519ee40a844)
 
 
 ## Counter:
@@ -162,8 +165,7 @@ endmodule
 ```
 **OUTPUT WAVEFORM:**
 
-
-![324511432-928169ce-e00f-4ff6-b962-ad94098c6d46](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/2f263b21-ebe3-4933-86e9-7dd0b55b2af3)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/0044d078-c9df-4754-8489-1d2dfdb2a9e2)
 
 ## Mod 10 Counter:
 ## VERILOG CODE:
@@ -185,8 +187,8 @@ endmodule
 
 **OUTPUT WAVEFORM:**
 
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/53bb5147-6c64-4dff-aa59-902c773aeb65)
 
-![324511702-c7d32766-147b-47be-9c11-847bb388b016](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/debf0c5e-f52f-4f53-8d76-d85362143882)
 
 
 
@@ -222,7 +224,8 @@ endmodule
 ```
 **OUTPUT WAVEFORM:**
 
-![324510199-da95aafd-b0e6-4ca1-9e0b-70bbd3083e02](https://github.com/Subash190/VLSI-LAB-EXP-4/assets/162429716/a64e330a-45e5-4f46-9246-a498a67cbaec)
+![image](https://github.com/Dhilib/VLSI-LAB-EXP-4/assets/165645979/800441c0-01c4-4103-80fd-23b21801e44c)
+
 
 
 **RESULT:**
